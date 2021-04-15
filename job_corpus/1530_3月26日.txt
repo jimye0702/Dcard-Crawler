@@ -1,0 +1,24 @@
+【專案簡介】
+本專案受一間日本教育事業公司的委託，希望開發一款可以給教育設施與家長溝通的MVP系統 (最小可行產品）。需建置後端系統供教師們使用，讓教育機構可以管理，並透過Line chat bot連結將學員的上課進度、上下課狀況等的狀況傳遞給家長。
+【工作內容】
+Host a server with CakePHP 
+Build a UI served from the server
+Build a Line Chat Bot
+【條件】
+本次專案會需要使用的技術如下，希望能將至少接觸過3,4項技能，不會願意學習都ＯＫ：
+- MySQL
+- git
+- Javascript
+- CSS
+- HTML
+- CakePhP Framework
+- AWS (EC2, RDS) 
+- Line Chat Bot
+【工作狀況及待遇】
+工作期間約兩個月，共 NTD80,000元
+全程遠端工作，工作時間彈性，一週工時約20-25小時。
+每週需參加兩個sync會議。分別是與位於美國的工程師以及位於日本的團隊（PM/design/enginner)。
+【上工日期】
+2021/04/01
+【應徵方式】
+請將相關履歷等寄至：info@msteam.jp

@@ -1,0 +1,9 @@
+公司: Fortune 500 IT vendor
+
+條件：
+－應屆畢業生 或 工作經驗不超過兩年
+－會使用C++，C＃，Java
+－熟悉SQL Server
+－會英語與外國同事溝通
+
+如有興趣，請把簡歷email到 Jackie.chung@w-consulting.biz

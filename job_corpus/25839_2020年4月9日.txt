@@ -1,0 +1,25 @@
+【工作職缺】 MIS/網管人員
+【徵求條件】 英文需流暢，寫作回覆信件需佳，社會新鮮人或僅有實習經驗可
+【薪資待遇】NT$50K 以上
+【連絡方式】recruitment.taipei@gmail.com
+【工作地點】台北市中山區
+
+Required technical skills:
+●Office 365 – User / Mailbox / Resources Management
+●Windows 10 environment – Updates, build using SCCM / Clonezilla, Maintenance
+●Understanding deploying and imaging – preparing computers with relevant software
+●Hardware / Printers / Software – install, troubleshoot, maintenance
+●Networking (fundamentals) – Routers and switches – set up, configuration, troubleshoot, back up, restoring and maintenance
+●VPN Client – Cisco – set up, configuration, troubleshoot, back up, restoring and maintenance
+
+Plus:
+●Powershell – some knowledge / experience is an advantage
+●Automated SCCM – System Centre Configuration Manager – programming a few ●computers at once with different software
+
+Profile:
+●Graduated on Computer Science or similar
+●1-3 years of experience in IT Support (onsite or remote), working in English speaking environment is an advantage – INTERNSHIP is acceptable
+●Working hours: Monday to Friday 8am-5pm or 9am-6pm
+
+●Week end on calls duties: flexibility is important
+●3-4 weeks training will be provided.

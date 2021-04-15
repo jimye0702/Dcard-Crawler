@@ -1,0 +1,10 @@
+看到老闆的老闆就想罵個臟字
+
+明明同是 Dev 居然 submit pull request 後都 tmd 不管有沒有問題
+還說什麽要等 build check 很久
+@#$%！你自己的 code 自己不 check status 
+有 merge conflict 還要下面的人跟你說
+什麽鳥 去 you 的
+
+基本程式設計者的責任都沒有做到
+是要怎麼帶人 怎麼讓人服從他 媽咪的 😣😣

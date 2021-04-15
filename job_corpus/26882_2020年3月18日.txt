@@ -1,0 +1,6 @@
+小弟在K 3GPPㄉ法規的時候碰到的小問題求解QQ
+
+請問為什麼3GPP 5G的SPEC中 在Channel Bandwidths for Each NR band中
+band n41、n50、n77、n78、n86的channel BW 25MHz 和30MHz都不support
+會有這種不連續的現象呢Q_Q
+

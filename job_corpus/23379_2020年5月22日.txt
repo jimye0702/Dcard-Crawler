@@ -1,0 +1,210 @@
+【申請 MA 時的學經歷背景】
+大學: 長庚大學工商管理學系 (GPA:3.97/4.0)
+碩士: 政大國貿所企管行銷組 (GPA:4.13/4.3) 應屆畢業生
+
+1.實習經驗:
+Nielsen FMCG Analyst Intern
+統一數網 E-commerce Business Development Intern
+HP Commercial Notebook Product Marketing Intern
+蝦皮 Food & Beverage Category Management Intern
+台塑生醫 Skincare Trade Marketing Intern
+
+2.課外經驗:
+政大管理顧問社公關 / 虛擬專案 PM
+BCG SCAP 策略顧問: 方法與實務課程 學生顧問
+
+3.競賽經驗:
+17th ATCC 統一企業組 TOP 8
+土地銀行 Fintech 黑客松 TOP 6
+2020 L'Oréal Brandstorm Campus Selection    
+
+—分隔線—
+
+1. 蝦皮 Global Leaders Program
+
+Round 0: CV Screening
+
+Round 1: Online Assessment
+
+線上筆試分為三大項目:
+1. GMAT Data Sufficiency 20題 (30min)
+2. Numerical Math 20題 (20min)
+3. Logical Reasoning 20題 (15min)
+
+Round 2: HR Interview (30–45min)
+
+(1) 自我介紹
+(2) 團隊經驗 & 如何解決衝突
+(3) 多工處理的經驗
+(4) 領導經驗
+(5) 最大的成就感
+(6) 你的優點跟缺點
+(7) 曾經碰過的挫折
+(8) 在蝦皮實習碰過什麼有趣的事情
+
+Tips: 運用 STAR 原則 (在什麼樣的 Situation / Target 為何 / 做了哪些 Action /
+最後的 Result) 將故事線脈絡表達清楚並且有條理自信地回答即可。
+
+【Case Interview 準備書籍】
+1. Case In Point 10 (初步概念建立)
+2. 費米推定筆記 (問題公式化)
+3. 費米解題推斷 (強化架構)
+4. Darden Case Book 2019 (實戰演練: Market Entry/P&L)
+5. Kellogg Case Book 2012 (實戰演練: Market Entry/P&L)
+
+Tips: 一定要找戰友們實際演練，並且互相給予 Comment 才會知道自己哪裡需要改進。初期可先參考 Case In Point 的架構再藉由 Case Book 的練習 ，逐漸修改並內化成自己習慣使用的架構。
+
+【Case 1 with Product Manager】
+Case: 今天你要幫你叔叔在松山區開的實體童裝店在_年內提升_營業額，你會怎麼做？
+
+ex: 先確定目標到底是營業額還是利潤，以及目前營收成長趨緩或衰退的原因為何 (新競爭者進入 / 消費者偏好改變 / 商閾太小)，若要達到目標有哪些方法 (拓展新的實體店面 / 增加產品線 / 進入電商平台)，進而評估這些方法的成本效益與可行性。
+
+【Case 2 with Customer Experience Team Lead】
+Case: 今天你是 Customer Service 部門的主管，Dashboard 中會顯示 每日績效，Call
+abandon rate (客服漏接的電話數/總體打進來的電話數) 是一個評判績效的重要指標，
+而你發現 Call abandon rate上升，你該如何處理？ 
+
+ex: 先列出內外部的架構，並分析可能造成 Call abandon rate上升的原因
+外部: 電信商問題 / 通話設備異常
+內部: 打進來的電話數上升 → APP 系統異常 / 買賣糾紛
+漏接的電話數上升 → 員工效率不佳 (新進人員訓練不足) / 員工人數不足
+
+Info: 若要確認是電話數上升而非內部人員問題，你需要搜集哪些資訊？
+員工人數有無變動 / 員工一天能夠接聽的電話數 / 每通電話的平均時間
+
+Info: 結果是 App 系統異常導致打進來的電話數上升，你該如何解決？
+從其他部門調派人員 / 降低每通電話的平均時間 (提高效率)
+
+Round 4: 1:1 Interview with Senior Management (Fail)
+
+【Case with Commercial Director (前 McKinsey Manager)】
+1. 分享如何發現一項問題並用創新想法解決的經驗 (英)
+2. 分享在團隊中和他人發生衝突與如何解決的經驗 (英)
+Case: 今天你有 500萬的預算做餐飲業，你會怎麼做？
+
+Final Round: 1:1 interview with COO (未進入)
+
+—分隔線—
+
+2. 萊雅 Management Trainee (Digital/EC/Marketing)
+
+Round 0: CV Screening + 30'sec video
+Video: 影片題目：品牌跟人一樣都有自己的個性與特色，若要用台灣萊雅旗下的品牌做比喻，你覺得你是哪個品牌？為什麼？
+
+Round 1: Digital Interview
+英文筆試3題，不限答題時間，非專業性題目
+ex: You are required to spend the next year of your life in the future. What year would you travel to and why? (時空穿越旅行)
+
+Round 2: Assessment Center
+因為疫情影響直接改為用人主管篩選
+
+Round 3: Interview with Direct Supervisor
+【Digital/EC: ACD+PPD+Corporate】三位主管一起面約 1hr
+1. 自我介紹
+2. 實習跟專案經驗詢問
+3. 你覺得萊雅在蝦皮有什麼可以優化的地方？
+4. 你覺得品牌在電商平台如何解決水貨問題？
+5. 你覺得品牌運用 KOL 要如何解決水貨問題？
+6. 你覺得 PPD 如何把 Momo 的消費者導流到線下做 OMO？
+7. Digital / EC / CRM 你自己比較想要做哪一塊？
+
+ACD 的 EC 有考我一個小 Case:
+Case: 今天萊雅旗下有一個很大的保養品牌，想要透過 2–3年來建立自有官網，你覺得要做還是不要做？（目標與數據資訊可透過詢問獲得）
+主要需問到消費者透過自有官網購買商品的比例有逐年成長的趨勢，以及在自有官網所販售的 Profit Margin 相較電商平台高出非常多。
+
+【Marketing: Vichy+Cerave (ACD)】一位主管面約 30min
+1. 自我介紹
+2. 什麼經驗說明你是個能帶領團隊有效率解決問題的人？
+3. 為什麼想要來萊雅？
+4. 為什麼想要做 Marketing？
+5. 為什麼想要選 ACD？
+6. EC 跟 Marketing 你比較想做哪一個？
+
+Final Round: Interview with General Manager
+【Digital: Corporate】約 40min
+1. 自我介紹
+2. 對於歐盟 GDPR 的資安規範，你有什麼看法？
+3. 承上題，在這樣的情況下你覺得該怎麼做才能取得消費者數據？
+4. 你認為 Digital 未來的發展會是什麼？
+5. 你覺得電商未來會走向什麼樣的趨勢？
+6. 承上題，那電商跟 Paid Media 之間的關係會怎麼演變？
+7. 你過去在蝦皮作活動規劃只看短期的消費者變化嗎？
+8. 承上題，你覺得看短期跟長期各有什麼優缺點？
+
+【EC: PPD】約 30min (Offer Get)
+1. 自我介紹
+2. 實習跟專案經驗詢問
+3. 在選擇過去與現在這幾份實習背後的原因與邏輯為何？
+4. 分享團隊合作與領導經驗
+5. 當 Leader 的時候組員曾給過你什麼評價？
+6. 為什麼想要選 PPD？
+7. 想要做 Digital 還是 EC？
+
+Tips: 我認為在品牌端做 EC 需要具備三項能力： 數據見解的洞察力、熟悉消費者語言、與平台的溝通能力，如果能夠結合過去實際經驗來回答的話是非常加分的。
+
+【心得總結】
+1. 要十分清楚知道自己為什麼想要進 FMCG 產業 (像我之前有在科技業實習過，主管就會很好奇這當中轉換的心態與動機)
+2. 為什麼在 FMCG 產業裡選擇萊雅 (萊雅能夠給你什麼樣的資源 / 你想在這個 Program 裡面得到什麼 / 你能夠帶給萊雅什麼)
+3. 在回答過去的經驗中，都要盡量緊扣你所申請的 Function (你認為這個 Function 需要具備什麼 hard & soft skill / 為什麼萊雅非選你不可)
+
+—分隔線—
+
+3. 太古可口可樂 Sales & Marketing Management Trainee
+
+Round 0: CV Screening
+
+Round 1: HR Interview (30min) / English Phone Call (10min )
+【HR Interview 全中文】
+1. 為什麼想申請這個 Program
+2. 說明你為什麼適合當 Management Trainee
+3. 分享團隊合作的經驗
+4. 過去有沒有在資訊不足的狀況下但還是必須要立馬做決策的經驗
+5. 人生經歷過最大的挫折
+6. 當 Leader 遇過最大的挑戰
+7. 若團隊中有人意見不同該如何說服他，最後他 buy in嗎？
+
+【English Phone Call】
+1. 這禮拜過的怎麼樣
+2. 簡單的自我介紹
+3. 未來五年的職涯規劃
+4. 最大的成就感
+
+Round 2: Assessment Center (2hr 30min)
+上午與下午各一場，共四組，每組四位，我是下午場的。
+地點：大倉久和飯店 久和一廳
+流程：
+1. Management Trainee Program 介紹
+2. Assessment Center 規則解說
+3. 團體個案討論加簡報製作 (80min)
+4. 各組簡報 (一組 10min，共 20min)
+5. 主管 Q&A (兩組一起共 15min)
+
+團體個案：旅館業相關的 Case / 難度 ★★★✩✩ (小於 HBS)
+Tips: 
+1. 大家先定好閱讀個案的時間，結束後由一人帶領 Go through 所有內容 (其他人幫忙糾正或補充) 並且設定好開始製作簡報與 Rehearsal 的時間
+
+2. 依照個案給予的角色定位確定好最終目標，並排序 Solution 的優先順序
+ex: 大家會很容易在討論的時候遺忘個案所設定的角色定位，例如你是 Customer Service 部門的主管則應該以提高 Customer Satisfaction 為目標。
+
+3. 不一定只選擇一個 Solution，有可能是階段性一步一步地達成目標
+ex: 先以數位媒體提高曝光率 → 邀請 KOL 在 TA 習慣使用的媒體上分享體驗心得 → 加強員工訓練或客製化增加服務品質 → 利用大數據優化 CRM 增加顧客的 Retention (知曉→興趣→體驗→回流)
+
+4. 簡報要有清楚的故事線
+ex: Executive Summary → Background (Problem Definition) → Target Audience Analysis (Existing Opportunities) → Solution (Short-term & Long-term) → Cost and Benefit Analysis (Possibility) → Conclusion (Recommendation / Potential Risk / Next Step)
+
+5. Q&A 的時候不要因為想表現所以講冗話，聽清楚主管的問題精準回答即可
+
+6. 盡量讓組員們都能夠平均發言（簡報或Q&A都是），不要一支獨秀搶鋒頭
+
+Final Round: Business Presentation ( 有進入但因已拿到 Offer 故婉拒）
+個案會以紙本的方式寄到家裡住址，需準備 15min 的全英文簡報，並至太古可口可樂公司總部進行 40min 的面試。
+
+—分隔線—
+
+不論面試的結果是好是壞，你都會在準備的過程中更了解你自己，
+不管是過去在課業、社團、實習、競賽甚至交換中的成就與收穫，
+還是與團隊一起經歷過的各種挑戰，互相扶持化解的衝突和困難。
+想要送給一起努力奮鬥的大家一句話：
+相信老天爺最終一定會安排你到最適合的地方
+
+其他更詳細的面試資訊分享都在我的 Medium 上面:

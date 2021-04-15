@@ -1,0 +1,13 @@
+我想問ANC如何計算??
+我知道公式是 ANC = WBC × ( Segs + Bands )  
+但假使只有下面幾個數字，要如何計算?
+
+Seg  Neutrophil :45
+
+lym  Lymphocyte :20
+
+mono  Monocyte:2.0%
+ 
+eosino  Eosinophil :4.0%
+
+baso  Basophlic :1.0%

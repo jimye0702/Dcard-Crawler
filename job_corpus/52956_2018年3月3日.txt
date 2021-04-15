@@ -1,0 +1,9 @@
+小弟我在台南生活 希望工作地點在台南
+今年畢業
+也是資訊類相關科系
+想從事php軟體開發或android app開發
+想請問各位畢業前找工作要在什麼時間點找比較適合
+我在二月找到的工作都被無聲卡(有附作品)
+想說是不是我沒畢業的關係？還是我能力不足？還是因為我身障？
+希望大家可以給個建議
+小弟會的是php (使用框架Laravel , codeigniter 會串接臉書api),MySQL,Java (Android開發) CSS,Html5, JavaScript (會使用一些jquery 與vue.js)

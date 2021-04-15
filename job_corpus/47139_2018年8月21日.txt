@@ -1,0 +1,14 @@
+各位大大好
+小弟112不純電資
+
+最近有幸拿到S跟C兩家EDA公司的offer
+地點都是在新竹offer也差不多
+Synopsys是在做後端analog routing的
+Cadence在做前端verification
+我在研究所的時候就是做前端verification所以算蠻熟了
+routing是一個沒接過的領域
+但因為大概也是一些圖學演算法而且我是資工背景的也有興趣
+Cadence這邊是一個新的team目前只有台灣1人美國1主管還在擴增中
+Synopsys這個team目前也只有台灣4個人美國2主管還在繼續找人中
+
+我從碩一就想進Synopsys，沒想過也有機會到Cadence，都是EDA巨頭，不大清楚該怎麼選擇才好，網站上也很少Cadence的資訊，想請問各位大大不知道比較推哪邊 ，謝謝!

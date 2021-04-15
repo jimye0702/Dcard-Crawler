@@ -1,0 +1,4 @@
+這邊的infrastructure不是蓋基礎建設(像是高速公路、跨海大橋之類的XD)
+是做系統建設相關(ex docker....)的工作，
+我想請問各位投入infrastructure的大大， 
+這類的工作有什麼心得或經驗嗎?

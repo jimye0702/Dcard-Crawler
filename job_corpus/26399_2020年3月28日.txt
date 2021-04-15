@@ -1,0 +1,21 @@
+因為目前開始在找工作了，有被問到一些問題，多半主管覺得我的Tool這方面，使用到的有點少，所以想問業界實際在製作IC時較詳細的流程，且每個步驟會使用到的Tool。
+
+目前我自己做的方式
+數位IC設計流程
+RTL(verilog)
+-->modelsim(驗證)
+-->Design compiler(合成)
+-->modelsim(驗證)
+-->SOC encounter & Innovus(APR)
+-->DRC(驗證)
+-->LVS(驗證)
+-->LPE(萃取)
+-->nanosim(模擬波型)
+想知道更詳細的步驟，所有步驟會使用到那些軟體。
+
+另外一種是使用SystemC進行開發
+1.C level 功能驗證 - 檢查演算法是否可以實作((比較想知道，這個驗證是使用哪些tool來進行?
+2.RTL設計 - 使HDL來實現硬體, 及在FPGA上做功能驗證
+3.APR - layout
+4.Tape-out - 晶片下線
+5.軟體開發 - 撰寫驅動程式或測試整體系統

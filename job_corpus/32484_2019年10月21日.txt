@@ -1,0 +1,14 @@
+【公司】電子製造業大廠
+【工作內容】
+　參與現有醫療軟體系統之開發及維護，針對新的需求作分析並設計軟體架構及模組，能獨立作業。  
+【條件】
+(1) 三年以上Asp.net Webform, Asp.net MVC程式開發經驗
+(2) 熟系Bootstrap 4, JQuery
+(3) 熟悉軟體開發流程(需求分析,軟體設計,coding, code review, unit test, stress test)
+(4) 具使用source control系統之經驗 (Git)
+(5) 具使用issue tracking system之經驗 (如Redmine, JIRA)
+(6) 會SQL, 具RESTful API界接經驗
+(7) 具關連式資料庫programming經驗
+(8) 具IIS管理/軟體分析經驗尤佳
+【工作地點】
+　台北內湖

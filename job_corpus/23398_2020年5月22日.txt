@@ -1,0 +1,45 @@
+【公司名稱】8 Blocks Capital
+8 Blocks Capital是一間香港的虛擬貨幣對沖基金。8 Blocks Capital專注於提供流動性交易，創辦者之一畢業於MIT，曾在全球最頂尖的投行高盛效力，吸收了專業知識之後成功將其應用於加密貨幣，團隊著重在建構低延遲交易架構和尖端交易算法，擁有超過20年的綜合經驗。
+
+【工作職缺】Quantitative Trader
+【薪資待遇】年薪$1,000,000 - (依你的經驗能力來談)
+【職務內容】
+We are looking for a quantitative trader to join the 8Blocks team. The role is both challenging and demanding within a high pressure environment. To be considered for this position, you will need to have demonstrated success in a previous trading role and an ability to take initiatives on a small team. Prior experience in Cryptocurrency is not necessary but a strong interest is absolutely necessary.
+Analyze, monitor, and improve existing strategies
+Actively follow Cryptocurrency markets to generate trading signals and opportunities
+Quantitatively assess markets, hypothesize new trading signals and empirically test with data
+Conceptualize strategies, design algorithms, and implement automated trading strategies
+Investigate and improve existing trade execution, risk management and strategy performance
+【徵求條件】
+Degree in a quantitative field such as Mathematics, Statistics, Physics, or Computer Science
+Strong knowledge of probability and statistics
+Prior experience on a trading floor
+Intermediate proficiency in Python, Java or C++
+Excellent analytical skills, with strong attention to detail
+Strong communication skills
+Strong interest in Cryptocurrency
+Flexible in location/potentially remote
+
+-
+
+【工作職缺】Operations Engineer
+【薪資待遇】年薪$1,000,000 - (依你的經驗能力來談)
+【職務內容】
+We are looking for an operations engineer to ensure our systems are functioning correctly and allow trading to operate with confidence. This role is responsible for the infrastructure that records and reconciles our trades and positions in addition to various controls and monitoring of our living trading environment.
+Prepare all daily and intraday reconciliations and address any exceptions and alerts.
+Use scripts and queries to research and analyze reconciliation issues on daily intervals
+Identify, resolve, and analyze difference in PnL
+Develop fluency with existing systems, infrastructure, and procedures and proactively improve them
+Identify and intelligently automate operational opportunities
+Gather and analyze metrics to improve and report on the performances of our systems
+Continually drive systems towards cleanliness, simplicity, and reliability
+Create documentations to ensure processes and tasks are consistent and repeatable as well as increasing knowledge sharing on the team
+【徵求條件】
+A Bachelor’s degree in Computer Science, Information Technology or related fields
+Ability to proactively identify both technical and operational deficiencies
+Ability to automate and improve processes by learning and applying technical tools such as Bash, Scripting, or SQL
+Strong attention to detail
+
+【工作地點】香港受訓一個月後，可以在台灣遠距
+【應徵方式】circe@glints.com (來信標題請註明應徵職缺)
+【備註】Glints代徵

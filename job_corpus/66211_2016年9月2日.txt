@@ -1,0 +1,40 @@
+我香港人的同事跟我說他們國小就開始學了
+
+身為應英系的我實在太丟臉了
+
+真的不小心就習慣講@小老鼠😅😅😅😅
+
+分享給大家😂😂😂😂
+
+~ = Tilde
+! = Exclamation Point
+@ = At
+# = Number
+$ = Dollar
+% = Percent
+^ = Caret
+& = Ampersand
+* = Asterisk
+( = Open or Left Parenthesis
+) = Close or Right Parenthesis
+_ = Underscore or Horizontal Bar
++ = Plus
+` = Acute
+- = Dash or Hyphen
+= = Equals
+{ = Open or Left Curly Brace
+} = Close or Right Curly Brace
+[ = Open or Left Square Bracket
+] = Close or Right Square Bracket
+: = Colon
+" = Quote
+| = Vertical Bar
+; = Semi Colon
+´ = Apostrophe or Single Quote
+\ = Reverse Solidus or Backslash
+< = Less Than
+> = Greater Than
+? = Question Mark
+, = Comma
+. = Dot, Period or Full Stop
+/ = Solidus or Forward Slash

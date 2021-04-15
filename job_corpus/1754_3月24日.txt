@@ -1,0 +1,7 @@
+最近開始在找工作想說來丟履歷給長榮國際
+結果要註冊的時候一直跑出以下訊息:
+
+The requested URL was rejected. Please consult with your administrator.
+
+用了IE跟chrome都出現一樣的東西
+有大大知道怎麼解決嗎 謝謝

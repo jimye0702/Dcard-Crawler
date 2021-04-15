@@ -1,0 +1,21 @@
+根據會計準則
+能被分類為financial liabilities的條件有4個
+只要滿足其中一個就可以了
+1.Contractual obligation to deliver cash or another financial asset to another entity
+2.Contractual obligation to exchange financial assets or financial liabilities with another entity under conditions that are potentially unfavourable to the entity
+3.The entity is or may be obligated to deliver a variable number of the entity's own equity instruments
+4. May be settled other than by exchange of a fixed amount of cash or another F/A for a fixed number of the entity's own equity instruments
+
+在我看來interest rate swaps不能滿足任何一個條件
+首先是1跟2. interest rate swaps是cash flow的交換而不是單方面送錢. 而且不太會是potentially unfavourable,如果是unfavourable那為何又要簽這個合鉉
+第3跟第4點也不對, 整個合約都跟equity無關
+
+我感覺第2點是比較有可能是答案
+但我還是想不通
+這合約明明是用來給分散利率風險的
+為何會是unfavourable呢?
+
+略長
+略悶
+請見諒
+求會計大神解答

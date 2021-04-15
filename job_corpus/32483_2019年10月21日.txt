@@ -1,0 +1,14 @@
+【公司】外商 (出差美國之機會)
+【工作內容】
+　前端系統開發
+【條件】
+　- Familiar with ECMAScript, CSS and HTML.  
+　- Experience in git or svn.  
+　- Knowledge of RWD  
+　- Good communication skills in English.   
+Plus:  
+　- Experience in at least one framework, e.g. React, Vue.js, Angular...  
+【工作地點】
+　台北市
+
+備註: 可接受經驗不多的人才~ 同事也是年輕人喔!

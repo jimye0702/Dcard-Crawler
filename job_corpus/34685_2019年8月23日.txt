@@ -1,0 +1,18 @@
+【公司名稱／工作職缺】 Volcus/Freelancing or part-time, or project based programmers 
+
+ 【徵求條件】 
+Help us to take on the following tasks to start off (we have a number of other projects to develop on the pipeline):
+
+* Establish build SQL database
+* MIS / Finance report customization 
+* Datafeed to QuickBook for sales orders
+* Marketplace Store Weekly Inventory download via API
+* Marketplace Store Daily reporting download via API
+* Marketplace daily report processing via pivot table
+
+ 【薪資待遇】 
+依案件計酬
+
+Please feel free to reply me directly at info@volcus.net 
+
+if you would like to discuss further in detail. Thank you for your attention.

@@ -1,0 +1,11 @@
+【職稱】韌體工程師 (Firmware Engineer) ***正職缺***
+【徵求條件】
+- At least 3 years of embedded Linux firmware development 
+- Fluent with C based Embedded Linux firmware development 
+- Fluent socket programming, client side is must, server side is plus 
+- Experience in network protocol development is a plus, especially over more than one processor architecture - MIPS, ARM 
+- Network protocol troubleshooting/debugging skill is a must - network troubleshooting tools, wireshark, etc 
+- Strong problem solving skill is preferred. 
+【工作地點】台北市大安區
+【年薪】月薪*14月 / 月薪範圍落在50k-100k
+【其他】若英文能力好，可獨立作業，可以到美國出差。

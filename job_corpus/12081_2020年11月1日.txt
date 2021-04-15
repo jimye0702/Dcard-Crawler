@@ -1,0 +1,8 @@
+嗨嗨，我是Passion，目前在Agoda曼谷總部擔任行銷分析師。我們有蠻多團隊正在積極徵才，從junior analyst到senior manager 都有開缺。以下分享我本人非官方的工作介紹，官方JD請見文末。歡迎找我內推，細節請見本文第二部分。
+
+/ 非官方junior analyst 工作與職缺介紹 /
+💡工作職責: experiment design and execution, measurement framework, performance optimization and monitoring, regular reporting. (如果大家對細節有興趣，我可以把之前寫的 #分析師在幹嘛 系列放上Dcard給大家參考)
+💡必備技能: 你可以不用有超進階的technical skills, 但你需要是個對數字敏感的人。我每天主要使用的工具是SQL/Tableau/ Excel，而R/ Python 也算是蠻常使用，但不熟練沒關係，看得懂、能夠改既有的script即可。至於modeling, 我比較少碰，一個月頂多一個case。(有其他team 是主要在做modeling/ forecasting.)
+💡學經歷: 我們的marketing team 特愛quantitative subject (也就是二類組科系)
+💡公司文化: 與台灣大部份公司相比，Agoda曼谷總部算是蠻有外商文化。公司相當尊重員工、福利優、各種(與喝酒有關的)活動，且不鼓勵加班。(但也沒有那種矽谷公司的fancy感。) 此外，多數我遇到的同事都非常聰明、友善、有趣。工作上，我們真的非常data oriented、非常熱愛做實驗。
+💡Expat的曼谷生活: 我個人覺得蠻舒服的，每天都有新鮮好玩的事情發生。細節歡迎參考下方我的粉絲專頁或工程師同事的post 

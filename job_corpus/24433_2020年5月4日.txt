@@ -1,0 +1,8 @@
+學歷：國立勤益科技大學
+
+紀能包：laravel框架開發（有會員、金流、購物車、第三方綁定fb,ig,line後台訂單管理系統）商城
+
+Python,php,opp,restful,MySQL,SQLite,Java,略懂JavaScript，unity
+
+
+目前想走網頁工程師 想問薪水大概畢業是多少

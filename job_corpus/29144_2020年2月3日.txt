@@ -1,0 +1,30 @@
+【工作職缺】Android Firmware Engineer (三年以上在Android framework的開發包含三年經驗 )
+【徵求條件】  
+  Job Description
+- Android product development(System, framework, HAL, Service, etc.)
+- Android application development (NDK/SDK)
+Requirements:
+- Experience with AOSP (or one of its derivatives) -- syncing it, building it, debugging it, modifying it, contributing to it
+- Experience with the Java or Kotlin programming language
+- Experience in android framework development.
+- Experience in android application development.
+- Experience with software version control and release using Git
+- Strong debugging skills and Good coding style
+Will Be a Plus:
+- Experience in multimedia and network(Video/Audio streaming, VOIP) applications development.
+- Experience with BSP and Linux device driver development
+【薪資待遇】 NTD$ 1,300,000~NTD$2,000,000 (Annualized 14month schedule)  這個 
+  薪資範圍是底薪部分，表現好另外有績效獎金。
+【連絡方式】 peggy.hsu@kellyservices.com.tw / +886 2 8978 9575 #292 
+【工作地點】 台北市信義區( 下班可以去附近東區小酌吃美食)
+【工作時間】 一天8hr，彈性工時。
+【公司福利】
+ 1. 中午公司有供餐(精華地帶吃飯貴鬆鬆，公司貼心的幫大家負責午餐，大約一天是 
+   200元左右的餐食)
+ 2. 公司請假制度彈性，請任何假都不扣薪!!!! 
+ 3. 公司有滿滿的零食，供大家壓力大，肚子餓時享用
+【其他備註】
+ - 此職缺為人力公司代po，公司很棒，給員工工作彈性自主，可以發揮所長
+ -  熟悉  AOSP customization related experience, especially in the framework, 
+   SystemUI, Launcher, etc.
+   若是版友有興趣或是有友人適合都歡迎跟我討論看看!

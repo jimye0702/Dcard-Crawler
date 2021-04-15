@@ -1,0 +1,82 @@
+大家好！我是查理，目前在上海的美商科技業擔任商務開發，上一篇分享外商履歷的基本架構，如果大家目前已經撰寫好一版英文履歷（如果還沒，文末提供免費履歷模板領取方式），可以參考這次整理的8個重點來審視自己的英文履歷，常常這些簡單的錯誤就會讓你錯過寶貴的面試機會。
+希望幫助近期正在求職的卡友們！
+
+我在medium有撰寫更完整的內容，並附上實際範例的履歷圖片，讓大家更快速且清楚的搞懂，有興趣的朋友可以看文末的資訊喔！（還有免費履歷模板領取方式！）
+
+
+✏第 1 點：整體架構順序
+1⃣ 學術背景: 對於社會新鮮人而言，首先要撰寫大學以上的學歷，若是已經工作一段時間的人，如果想特別強調自己的工作經驗，也可以放在履歷的最前面。
+2⃣ 工作經歷: 針對應屆畢業生，此部分可以撰寫過去的實習或打工經驗。
+3⃣ 特殊事蹟: 由於學生工作經驗不一定那麼豐富，可以呈現其他能展現你特質的相關課 外活動或社團等經驗。
+4⃣專業技能: 最後透過條列式的方式描述一下你所擁有與應聘工作相關的技能，讓人快速抓到重點。
+
+✏第 2 點：經歷順序為倒敘寫法
+所有的經歷都是由最近的經歷寫到較早的經歷。
+但若你有某個特別亮眼的實習想要呈現，也可以把它擺在最前面。
+另外提醒一下，英文日期只需要寫年跟月份，寫法為Dec.2019 - Aug.2020
+其他的月份的縮寫分別為
+Jan./ Feb./ Mar./ Apr./ May./ Jun./ Jul./ Aug./ Sep.or Sept./ Oct./ Nov./ Dec.
+
+
+✏第 3 點：一切皆經歷動詞開頭，沒有「我」
+這本身就是你的履歷，不需要在開頭都打上我
+❌ “I̶ ̶m̶a̶n̶a̶g̶e̶d̶ ̶o̶v̶e̶r̶ ̶2̶5̶0̶ ̶c̶u̶s̶t̶o̶m̶e̶r̶s̶” 
+而直接以「過去式」且「強而有力的動詞」開頭 
+➡️“Managed over 250 customers”
+
+
+✏第 4 點：經歷皆以列點呈現
+所有的經歷皆以Bullet Point列點呈現，清晰易懂且方便閲讀！
+一個點就只有一項重點，千萬不要將冗長的經歷寫在同一點中
+可以根據『S、T、A、R』原則來編排經歷的順序，讓我們接著看下去...
+
+✏第 5 點：黃金「S、T、A、R」原則
+根據 The Guardian 介紹，STAR 即為 Situation、 Task、 Action、 Results。
+你可以按照這個順序來撰寫每一項經歷，讓你敘述邏輯更清晰。
+·情境（Situation)：Set the context for your story。在履歷上，就是經歷或是工作職務的簡單概述。
+· 任務（Task)：What was required of you。撰寫工作職務中，你主要負責的工作或角色。
+· 作為（Action)：What you actually did。具體寫出你特別的一兩件特別事蹟。
+· 結果（Results)：How well the situation played out。簡單來說就是你達到什麼樣的成果。
+
+舉一個社團活動長的例子來說：
+· 情境（Situation）： 
+Held a 3-day camp for students in a rural elementary school.
+· 任務（Task）： 
+Managed the whole event and supervised over 50 staff and performers.
+· 作為（Action）： 
+Created an interesting promotion at school and attracted participants to increase from 20 to over 100.
+· 結果（Results）：
+Attained students' satisfaction rate over 90%.
+
+當然，若特別事蹟比較多或是更為突出，可以多描寫Action。同時，為了避免履歷過長，有時可以捨去其他部分或是合併因果關係較強的經歷。
+例如：
+· Situation + Results： 
+Held a 3-day camp for students in a rural elementary school with participants' satisfaction rate over 90%.
+
+✏第 6 點：注意英文文法
+錯誤的英文文法不但影響閲讀者的感受，更糟的是讓人會錯意，下列是可以注意的一些基本事項：
+❌ 時態錯誤：過去的經驗的時態皆為過去式!
+❌ 關係代名詞用錯：千萬記得描述完一個事件的結果時，特別注意關係代名詞的使用。 
+   例如：Created an interesting promotion at school, w̶h̶i̶c̶h̶ ̶a̶t̶t̶r̶a̶c̶t̶s̶ participants to increase from 20 to over 100.
+➡️    Created an interesting promotion at school, which attracted participants to increase from 20 to over 100.
+➡️    Created an interesting promotion at school, attracting  participants to increase from 20 to over 100.
+➡️    Created an interesting promotion at school and attracted participants to increase from 20 to over 100.
+
+✏第 7 點：注意英文錯字
+英文履歷最忌諱錯字！履歷上的錯字會讓人覺得你不認真對待這份工作，所以一定要檢查錯字，常犯的錯誤包括
+❌ 複數忘了加s : 8̶0̶ ̶c̶a̶l̶l̶ ̶a̶ ̶d̶a̶y̶ ➡️ 80 calls a day
+❌ 英文大小寫錯誤 : 每一段的第一個字以及專有名詞記得要大寫。m̶i̶n̶i̶s̶t̶r̶y̶ ̶o̶f̶ ̶f̶o̶r̶e̶i̶g̶n̶ ̶a̶f̶f̶a̶i̶r̶s̶ ➡️ Ministry of Foreign Affairs
+❌ 科系全名寫錯 : 可到系所官網去看官方的寫法。F̶o̶r̶e̶i̶g̶n̶ ̶L̶a̶n̶g̶u̶a̶g̶e̶ ̶a̶n̶d̶ ̶L̶i̶t̶e̶r̶a̶t̶u̶r̶e ̶ ➡️ Foreign Languages and Literatures
+❌ 職位或幹部名稱拼錯 : 公關組不是用 P̶u̶b̶l̶i̶c̶ ̶R̶e̶l̶a̶t̶i̶o̶n̶ ̶D̶e̶p̶a̶r̶t̶m̶e̶n̶t̶，而是用Public Relation Divison / Section。社團幹部職位的英文可以參考這篇文章。
+❌ 獎項名稱直翻 : 書卷獎並非B̶o̶o̶k̶ ̶A̶w̶a̶r̶d̶s̶，而是 Academic Excellence Awards
+
+✏第 8 點：字體 Times New Roman、 大小 12
+注意履歷的字體全部為Times New Roman ，而字體大小為12。若空間不夠可以拉寬頁面或是稍微縮小字體大小，但不要低於10，否則讓人難以閲讀。
+另外，標題的名字一樣選擇字體大小12或可以稍微大一些。
+
+在寫完履歷的初版後，可以利用上述的8個重點來檢視自己的履歷，讓你的履歷基本功更加扎實。
+其中 黃金『S、T、A、R』原則 最為重要，但大部分人卻都是在此失分！之後可以針對這部分做更多分享喔！
+
+目前查理有經營個IG，主要分享職涯規劃、履歷撰寫、外商職場、上海生活、科技業知識等內容，有興趣的朋友可以來看看！
+🔥若要領取免費英文履歷模板，請查看 Instagram中 #求職這件事 的系列貼文🔥
+▍Instagram: 查理的職涯隨身筆記 @charliecareer 

@@ -1,0 +1,83 @@
+大家好！我是查理，目前在上海的美商科技業擔任商務開發，希望分享自己外商求職方法以及業務職涯分享，有興趣可以follow我喔！
+
+之前在『外商英文履歷8個注意事項，別踩雷！』中已經介紹過黃金「STAR」原則，這篇希望可以幫助卡友更好運用「STAR」原則來撰寫英文履歷，能讓你的履歷不是一份流水帳，而是呈現你職涯軌跡的精彩故事書！
+
+📣我在medium有撰寫更完整的內容，讓大家更快速且清楚的搞懂，有興趣的朋友可以看文末的資訊喔！（還有免費履歷模板領取方式！）
+
+
+首先，我們先簡單回顧一下黃金「STAR」的基本定義。
+· 情境（Situation)：Set the context for your story。在履歷上，就是經歷或是工作職務的簡單概述。
+· 任務（Task)：What was required of you。撰寫工作職務中，你主要負責的工作或角色。
+· 作為（Action)：What you actually did。具體寫出你特別的一兩件特別事蹟。
+· 結果（Results)：How well the situation played out。簡單來說就是你達到什麼樣的成果。
+
+接下來，實際看看如何使用 3 個公式，活用黃金「STAR」原則。
+
+📌1⃣ 基本公式： S + T + A + R （適用於一般工作、社團、專案經驗）
+大部分的經歷都可以按照這個邏輯順序去撰寫。若履歷過長，則可合併因果關係較強的兩點合併成一點撰寫，如 Situation + Results。
+· 情境（Situation)：簡單介紹公司業務（特別是中小公司），若是社團等課外活動，則可以簡單描述活動內容與規模（建議以數字呈現）。
+· 任務（Task)：具體寫出主要職責或是負責的項目內容，最好填寫與應徵工作相關的職務內容，展現專業能力。
+· 作為（Action)：具體撰寫「你為公司創造價值」的實際作為，建議至少寫一件事蹟。這點是凸顯你為公司帶來的額外貢獻（相較於其他職員），這是決定你是否與眾不同的關鍵。
+· 結果（Results)：呈現具體且數字化的結果。此部分可以單獨列出、統整一項經歷的總成果；也可將因果關係較強的結果，直接接在對應的 S、Ｔ、Ａ後撰寫。
+
+｜基本公式範例：
+· 情境（Situation）： 
+Held a 3-day camp for a total of 100+ students in a rural elementary school.
+· 任務（Task）： 
+Managed the whole event and supervised over 50 staff and performers.
+· 作為（Action）： 
+Created an interesting promotion at school and attracted participants to increase from 20 to over 100.
+· 結果（Results）：
+Attained students' satisfaction rate over 90% and acquired another collaboration opportunity through referral. 
+
+📌2⃣ 進階公式 I： T + ( A ) + R （適用於行政類工作）
+· 任務（Task)：若過去的經驗或是應徵的職位屬於行政類，這部分會非常吃重，因爲它展現你對這類工作的熟悉度以及專業度。
+· 作為（Action)：若在行政類工作中有做出創新或特別貢獻，例如：提高工作效率、優化工作流程等，一定要寫上！若沒有特別的事蹟也沒關係，但如前所述，這會凸顯你的差異化。
+· 結果（Results)：呈現具體的結果，建議能以數字呈現工作效率，或是運用具體例子呈現質化成果。可參考文章末的3大撰寫要點。
+
+｜進階公式 I範例 ：前台接待人員
+· 任務（Task）： 
+Maintained the order at the front desk and welcomed average 50+ foreign guests a day. 
+· 作為（Action）： 
+Developed a new standard operation process to streamline the guest check-in process, which reduced check-in time by 50%.  
+· 結果（Results）：
+Answered 40+ calls a day and tackled 80% guests' phone-in problems.
+
+
+📌3⃣進階公式 II：A + R（適用於特殊事蹟）
+若一項經歷中有數個特殊事蹟，可以用獨立的一點來呈現一個事蹟（A+R）。
+
+｜進階公式 II 範例 ：
+· 作為（Action）+ 結果（Results）：
+Executed a digital marketing campaign with 6000 emails collected and 350 fans gained, accomplishing 170% KPI
+
+現在你知道如何使用黃金「STAR」原則來撰寫經歷，但千萬記住以下 3 大撰寫要點！
+
+✅第 1 點：善用「 強動詞 」
+相較於一般性的動詞（如Do、Make等），使用具體的強動詞，更能夠展現你的專業及敘事能力。
+❌ M̶a̶d̶e̶ ̶a̶ ̶s̶t̶a̶n̶d̶a̶r̶d̶ ̶o̶p̶e̶r̶a̶t̶i̶o̶n̶ ̶p̶r̶o̶c̶e̶s̶s̶➡️ Developed a standard operation process.
+針對強動詞的挑選，可以參考世界公民文化中心的這篇文章。
+
+✅第 2 點：數字取代形容詞
+不要使用虛無飄渺的形容詞，不但沒有加分效果，甚至會讓人資懷疑經歷的真實性。
+因此，運用實際的數字呈現結果，不但更加具體且專業，同時展現你對負責的項目掌握度非常高。
+❌ Provided after-sales service with high customer satisfaction rate.
+➡️ Provided after-sales service with customer satisfaction rate over 85%.
+若成果沒有數字佐證，則可用具體例子來呈現。
+❌ Proposed a promotion project for Cha-Li Bank, of which the marketing campaigns were rather creative.
+➡️ Proposed a promotion project for Cha-Li Bank, of which creative marketing campaigns were highly praised by the Marketing Director.
+
+✅第 3 點：具體！具體！再具體！
+除了結果要具體外，描述經歷時同樣需要具體呈現，才不會讓通篇流於抽象，無法展現你對職務內容的掌握程度。
+若是一項實際專案，把具體使用到的工具寫出來，展現專業能力。
+❌ Planned media strategy and analyzed online marketing campaign results.
+➡️ Planned media strategy and analyzed online marketing campaign results, including LINE@, Facebook, Google, Yahoo.
+若有跨部門合作經歷，寫出合作的部門，展現溝通能力。
+❌ Collaborated with several teams to develop an internal tool that streamlined the check-in process.
+➡️ Collaborated with tech team and sales team to develop an internal tool that streamlined the check-in process.
+
+掌握這個黃金「STAR」原則的 3 個公式，以及 3 個撰寫要點。現在再審視一遍每個經歷，就會明顯感受英文履歷的專業度不是「大大提升」， 而是 「有效提升 80%」。
+
+目前查理有經營個IG，主要分享職涯規劃、履歷撰寫、外商職場、上海生活、科技業知識等內容，有興趣的朋友可以來看看！
+🔥若要領取免費英文履歷模板，請查看 Instagram中 #求職這件事 的系列貼文🔥
+▍Instagram: 查理的職涯隨身筆記 @charliecareer 
